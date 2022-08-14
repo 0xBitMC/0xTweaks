@@ -9,6 +9,6 @@ These configurations are based on optimizations for the EarthPol Earth Server ru
 ### Recommended Hardware:
 ```
 CPU: AMD Ryzen 9 5900X
-Allocated RAM: 12-20GB DDR
+Allocated RAM: 12-20GB DDR4
 Network: 2Gbps Up/Down
 ```
